@@ -1,2 +1,2 @@
 # RickBlog
-my personal tech blog
+A personal tech blog
